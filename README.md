@@ -1,1 +1,1 @@
-This a  project that is used in visualizing housing market trends and an analysis of sale prices and features using Tableau
+Designed and built an interactive Tableau dashboard to visualize housing market trends and perform detailed analysis of sale prices and property features, enabling data-driven decision-making.
